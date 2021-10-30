@@ -1,0 +1,41 @@
+table{
+    background-color:#699677 ;
+    float: left;
+    height: 1130px;
+    border-color: 2px solid black;
+    
+ 
+    
+}
+body{
+    background-color: rgb(148, 94, 148);
+    
+}
+img{
+    width: 330px;
+    height:320px;
+    border-radius: 50%;
+
+}
+h4{
+    font-size: 50px;
+    color: #534e04;
+}
+span{
+    font-size: 12px;
+}
+.row{
+    margin-bottom: -10px;
+    margin-top: -20px;
+    margin-left: -30px;
+}
+.row{
+    border: 2px solid red;
+    background-color: gray;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: violet;
+    justify-content: safe;
+  }
